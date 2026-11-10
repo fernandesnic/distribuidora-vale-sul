@@ -1,0 +1,22 @@
+vendedor_id;nome;canal;data_admissao;data_desligamento;regiao
+1;Sabrina Rocha;EXTERNO;2021-01-25;;Capital Centro
+2;Gabriel Martins;EXTERNO;2016-12-07;;Capital Leste
+3;Otávio Costa;EXTERNO;2016-06-05;;Capital Norte
+4;Camila Martins;EXTERNO;2020-08-25;2023-09-15;Capital Sul
+5;Leandro Nunes;EXTERNO;2017-12-28;;Capital Oeste
+6;Natália Araújo;EXTERNO;2017-09-11;;Guarulhos e Alto Tietê
+7;Eduardo Santos;EXTERNO;2016-04-13;;ABC
+8;Rodrigo Silva;EXTERNO;2017-06-04;;Oeste (Osasco/Barueri)
+9;Helena Ribeiro;EXTERNO;2016-10-04;2024-06-30;Capital Centro
+10;Carla Martins;EXTERNO;2018-03-01;;Capital Leste
+11;Marcos Moreira;EXTERNO;2016-07-06;;Capital Norte
+12;Bruno Silva;EXTERNO;2021-11-29;2025-03-31;Capital Sul
+13;Rodrigo Almeida;EXTERNO;2017-04-07;;Capital Oeste
+14;Marcos Oliveira;EXTERNO;2021-05-09;;Guarulhos e Alto Tietê
+15;Marcos Costa;TELEVENDAS;2021-07-15;;Televendas
+16;Eduardo Rocha;TELEVENDAS;2016-06-22;;Televendas
+17;Rodrigo Rodrigues;TELEVENDAS;2020-10-05;;Televendas
+18;Rafael Rocha;TELEVENDAS;2018-12-25;;Televendas
+19;Vanessa Almeida;EXTERNO;2023-10-02;;Capital Norte
+20;Otávio Oliveira;EXTERNO;2024-07-08;;Capital Sul
+21;Marcos Nunes;EXTERNO;2025-04-07;;Capital Oeste

@@ -1,0 +1,251 @@
+produto_id;sku;descricao;categoria;marca;unidade;custo_unitario;preco_venda;ativo
+1;VS00001;Refrigerante Guaraná 2L Serra Azul;Bebidas;Serra Azul;FD 6UN;25,2;31,1;S
+2;VS00002;Refrigerante Laranja 2L Polar Sul;Bebidas;Polar Sul;FD 6UN;31,35;37,13;S
+3;VS00003;Chá Gelado Limão 1,5L Tropic;Bebidas;Tropic;FD 6UN;31,25;36,74;S
+4;VS00004;Cerveja Pilsen Long Neck 355ml Fresquinha;Bebidas;Fresquinha;CX 24UN;97,35;113,78;S
+5;VS00005;Refrigerante Laranja 2L Tropic;Bebidas;Tropic;FD 6UN;30,41;35,31;S
+6;VS00006;Água Mineral sem Gás 500ml Bom Gole;Bebidas;Bom Gole;FD 12UN;12,05;14,87;S
+7;VS00007;Refrigerante Cola Lata 350ml Polar Sul;Bebidas;Polar Sul;FD 12UN;33,03;40,74;S
+8;VS00008;Refrigerante Laranja 2L Serra Azul;Bebidas;Serra Azul;FD 6UN;27,86;31,59;S
+9;VS00009;Cerveja Pilsen Lata 350ml Bom Gole;Bebidas;Bom Gole;FD 12UN;38,17;44,56;N
+10;VS00010;Suco de Uva Integral 1L Serra Azul;Bebidas;Serra Azul;CX 6UN;66,44;77,31;S
+11;VS00011;Chá Gelado Limão 1,5L Fresquinha;Bebidas;Fresquinha;FD 6UN;26,69;32,16;S
+12;VS00012;Chá Gelado Limão 1,5L Serra Azul;Bebidas;Serra Azul;FD 6UN;27,79;33,98;S
+13;VS00013;Cerveja Pilsen Lata 350ml Fresquinha;Bebidas;Fresquinha;FD 12UN;37,13;42,58;S
+14;VS00014;Suco de Uva Integral 1L Fresquinha;Bebidas;Fresquinha;CX 6UN;62,87;66,64;S
+15;VS00015;Cerveja Puro Malte Lata 350ml Fresquinha;Bebidas;Fresquinha;FD 12UN;44,9;53,14;S
+16;VS00016;Cerveja Puro Malte Lata 350ml Serra Azul;Bebidas;Serra Azul;FD 12UN;39,14;46,67;S
+17;VS00017;Água Mineral com Gás 500ml Serra Azul;Bebidas;Serra Azul;FD 12UN;16,11;18,09;S
+18;VS00018;Refrigerante Guaraná 2L Bom Gole;Bebidas;Bom Gole;FD 6UN;38,41;42,88;S
+19;VS00019;Isotônico 500ml Tropic;Bebidas;Tropic;FD 6UN;25,16;28,14;S
+20;VS00020;Refrigerante Cola 2L Serra Azul;Bebidas;Serra Azul;FD 6UN;33,74;38,91;S
+21;VS00021;Suco Néctar Pêssego 1L Fresquinha;Bebidas;Fresquinha;CX 12UN;65,23;80,35;S
+22;VS00022;Suco Néctar Pêssego 1L Tropic;;Tropic;CX 12UN;66,13;70,9;S
+23;VS00023;Suco de Uva Integral 1L Polar Sul;Bebidas;Polar Sul;CX 6UN;74,94;85,64;S
+24;VS00024;Suco de Uva Integral 1L Bom Gole;Bebidas;Bom Gole;CX 6UN;55,85;64,85;S
+25;VS00025;Energético Lata 250ml Bom Gole;Bebidas;Bom Gole;FD 6UN;48,21;56,62;S
+26;VS00026;Água Mineral 1,5L Polar Sul;Bebidas;Polar Sul;FD 6UN;11,44;13,6;N
+27;VS00027;Cerveja Pilsen Long Neck 355ml Bom Gole;Bebidas;Bom Gole;CX 24UN;115,56;123,93;S
+28;VS00028;Refrigerante Laranja 2L Bom Gole;Bebidas;Bom Gole;FD 6UN;24,84;30,94;S
+29;VS00029;Energético Lata 250ml Serra Azul;Bebidas;Serra Azul;FD 6UN;43,53;50,38;S
+30;VS00030;Água Mineral sem Gás 500ml Serra Azul;Bebidas;Serra Azul;FD 12UN;11,64;13,43;S
+31;VS00031;Água Mineral 1,5L Tropic;Bebidas;Tropic;FD 6UN;11,47;13,63;S
+32;VS00032;Suco Néctar Pêssego 1L Serra Azul;Bebidas;Serra Azul;CX 12UN;55,37;67,37;S
+33;VS00033;Suco Néctar Pêssego 1L Bom Gole;Bebidas;Bom Gole;CX 12UN;72,07;82,05;S
+34;VS00034;Cerveja Pilsen Long Neck 355ml Tropic;Bebidas;Tropic;CX 24UN;80,35;98,6;S
+35;VS00035;Água Mineral 1,5L Fresquinha;Bebidas;Fresquinha;FD 6UN;11,84;13,35;S
+36;VS00036;Refrigerante Cola Lata 350ml Serra Azul;Bebidas;Serra Azul;FD 12UN;35,93;41,28;S
+37;VS00037;Água Mineral sem Gás 500ml Polar Sul;Bebidas;Polar Sul;FD 12UN;15,25;12,66;S
+38;VS00038;Isotônico 500ml Polar Sul;Bebidas;Polar Sul;FD 6UN;21,77;23,4;S
+39;VS00039;Refrigerante Cola 2L Fresquinha;Bebidas;Fresquinha;FD 6UN;42,8;49,1;S
+40;VS00040;Água Mineral com Gás 500ml Fresquinha;Bebidas;Fresquinha;FD 12UN;23,54;15,17;S
+41;VS00041;Refrigerante Cola 2L Polar Sul;Bebidas;Polar Sul;FD 6UN;40,57;45,59;S
+42;VS00042;Refrigerante Guaraná 2L Tropic;Bebidas;Tropic;FD 6UN;34,61;41,44;N
+43;VS00043;Água Mineral com Gás 500ml Tropic;Bebidas;Tropic;FD 12UN;16,53;20,36;S
+44;VS00044;Cerveja Pilsen Long Neck 355ml Polar Sul;Bebidas;Polar Sul;CX 24UN;98,07;113,4;S
+45;VS00045;Cerveja Pilsen Garrafa 600ml Serra Azul;;Serra Azul;CX 24UN;121,26;151,22;S
+46;VS00046;Energético Lata 250ml Polar Sul;Bebidas;Polar Sul;FD 6UN;37,8;43,95;S
+47;VS00047;Suco de Uva Integral 1L Tropic;Bebidas;Tropic;CX 6UN;65,63;78,7;S
+48;VS00048;Cerveja Pilsen Garrafa 600ml Fresquinha;Bebidas;Fresquinha;CX 24UN;162,78;185,26;S
+49;VS00049;Cerveja Pilsen Garrafa 600ml Tropic;Bebidas;Tropic;CX 24UN;152,2;174,67;S
+50;VS00050;Refrigerante Cola 2L Tropic;Bebidas;Tropic;FD 6UN;39,34;44,61;S
+51;VS00051;Água Mineral sem Gás 500ml Fresquinha;Bebidas;Fresquinha;FD 12UN;13,81;16,29;S
+52;VS00052;Isotônico 500ml Fresquinha;Bebidas;Fresquinha;FD 6UN;23,9;27,0;S
+53;VS00053;Água Mineral com Gás 500ml Bom Gole;Bebidas;Bom Gole;FD 12UN;14,17;16,65;S
+54;VS00054;Cerveja Pilsen Lata 350ml Serra Azul;Bebidas;Serra Azul;FD 12UN;37,95;46,89;S
+55;VS00055;Cerveja Puro Malte Lata 350ml Tropic;Bebidas;Tropic;FD 12UN;52,77;61,97;S
+56;VS00056;Água Mineral 1,5L Bom Gole;Bebidas;Bom Gole;FD 6UN;12,64;14,65;S
+57;VS00057;Refrigerante Cola Lata 350ml Bom Gole;Bebidas;Bom Gole;FD 12UN;33,83;40,92;S
+58;VS00058;Cerveja Pilsen Garrafa 600ml Polar Sul;Bebidas;Polar Sul;CX 24UN;142,73;176,66;S
+59;VS00059;Cerveja Pilsen Garrafa 600ml Bom Gole;Bebidas;Bom Gole;CX 24UN;148,5;171,09;S
+60;VS00060;Água Mineral 1,5L Serra Azul;Bebidas;Serra Azul;FD 6UN;11,86;13,63;S
+61;VS00061;Cerveja Puro Malte Lata 350ml Bom Gole;Bebidas;Bom Gole;FD 12UN;37,83;44,29;S
+62;VS00062;Chá Gelado Limão 1,5L Bom Gole;Bebidas;Bom Gole;FD 6UN;29,87;33,69;S
+63;VS00063;Refrigerante Cola Lata 350ml Tropic;Bebidas;Tropic;FD 12UN;43,05;45,45;S
+64;VS00064;Energético Lata 250ml Tropic;Bebidas;Tropic;FD 6UN;36,83;42,88;S
+65;VS00065;Suco Néctar Pêssego 1L Polar Sul;Bebidas;Polar Sul;CX 12UN;60,34;67,45;S
+66;VS00066;Cerveja Pilsen Long Neck 355ml Serra Azul;Bebidas;Serra Azul;CX 24UN;84,81;105,02;S
+67;VS00067;Refrigerante Cola Lata 350ml Fresquinha;Bebidas;Fresquinha;FD 12UN;36,81;44,2;S
+68;VS00068;Refrigerante Guaraná 2L Fresquinha;Bebidas;Fresquinha;FD 6UN;30,61;37,95;S
+69;VS00069;Isotônico 500ml Serra Azul;Bebidas;Serra Azul;FD 6UN;19,88;22,78;S
+70;VS00070;Água Mineral com Gás 500ml Polar Sul;Bebidas;Polar Sul;FD 12UN;12,25;14,49;S
+71;VS00071;Refrigerante Guaraná 2L Polar Sul;Bebidas;Polar Sul;FD 6UN;27,98;32,09;S
+72;VS00072;Chá Gelado Limão 1,5L Polar Sul;Bebidas;Polar Sul;FD 6UN;27,41;33,64;S
+73;VS00073;Cerveja Pilsen Lata 350ml Polar Sul;Bebidas;Polar Sul;FD 12UN;34,07;42,24;S
+74;VS00074;Cerveja Pilsen Lata 350ml Tropic;Bebidas;Tropic;FD 12UN;35,21;41,16;S
+75;VS00075;Energético Lata 250ml Fresquinha;;Fresquinha;FD 6UN;42,59;51,38;S
+76;VS00076;Água Mineral sem Gás 500ml Tropic;Bebidas;Tropic;FD 12UN;14,03;14,83;S
+77;VS00077;Refrigerante Laranja 2L Fresquinha;Bebidas;Fresquinha;FD 6UN;27,75;31,55;S
+78;VS00078;Cerveja Puro Malte Lata 350ml Polar Sul;Bebidas;Polar Sul;FD 12UN;54,07;60,48;S
+79;VS00079;Isotônico 500ml Bom Gole;Bebidas;Bom Gole;FD 6UN;23,42;28,59;S
+80;VS00080;Refrigerante Cola 2L Bom Gole;Bebidas;Bom Gole;FD 6UN;32,65;38,11;N
+81;VS00081;Café Torrado e Moído 500g Vale Bom;Mercearia;Vale Bom;CX 10UN;156,06;202,48;S
+82;VS00082;Açúcar Refinado 1kg Vale Bom;Mercearia;Vale Bom;FD 10UN;40,01;52,47;S
+83;VS00083;Feijão Preto 1kg Grão Fino;Mercearia;Grão Fino;FD 10UN;55,85;73,33;S
+84;VS00084;Café Torrado e Moído 500g Grão Fino;Mercearia;Grão Fino;CX 10UN;136,08;167,72;S
+85;VS00085;Café Torrado e Moído 500g Dona Benta Sul;Mercearia;Dona Benta Sul;CX 10UN;170,08;206,02;S
+86;VS00086;Café Torrado e Moído 500g Celeiro;Mercearia;Celeiro;CX 10UN;130,59;155,72;S
+87;VS00087;Achocolatado em Pó 400g Sabor da Terra;Mercearia;Sabor da Terra;CX 12UN;93,32;116,06;S
+88;VS00088;Macarrão Parafuso 500g Mesa Farta;Mercearia;Mesa Farta;FD 20UN;47,99;63,29;S
+89;VS00089;Achocolatado em Pó 400g Grão Fino;Mercearia;Grão Fino;CX 12UN;72,78;93,06;S
+90;VS00090;Macarrão Espaguete 500g Mesa Farta;Mercearia;Mesa Farta;FD 20UN;52,75;68,11;S
+91;VS00091;Farinha de Trigo 1kg Celeiro;Mercearia;Celeiro;FD 10UN;39,0;52,86;S
+92;VS00092;Feijão Carioca 1kg Sabor da Terra;Mercearia;Sabor da Terra;FD 10UN;66,15;91,18;S
+93;VS00093;Sal Refinado 1kg Grão Fino;Mercearia;Grão Fino;FD 10UN;19,15;24,04;S
+94;VS00094;Sal Refinado 1kg Sabor da Terra;Mercearia;Sabor da Terra;FD 10UN;15,5;21,33;S
+95;VS00095;Molho de Tomate 340g Mesa Farta;Mercearia;Mesa Farta;CX 24UN;49,46;68,31;S
+96;VS00096;Arroz Branco Tipo 1 5kg Sabor da Terra;Mercearia;Sabor da Terra;FD 6UN;97,79;134,05;S
+97;VS00097;Macarrão Parafuso 500g Sabor da Terra;Mercearia;Sabor da Terra;FD 20UN;59,87;72,81;S
+98;VS00098;Farinha de Trigo 1kg Sabor da Terra;Mercearia;Sabor da Terra;FD 10UN;46,25;58,71;S
+99;VS00099;Leite em Pó 400g Grão Fino;Mercearia;Grão Fino;CX 12UN;153,96;183,43;S
+100;VS00100;Feijão Carioca 1kg Grão Fino;Mercearia;Grão Fino;FD 10UN;62,22;79,65;S
+101;VS00101;Biscoito Recheado 130g Vale Bom;Mercearia;Vale Bom;CX 40UN;79,71;104,75;S
+102;VS00102;Achocolatado em Pó 400g Celeiro;Mercearia;Celeiro;CX 12UN;92,65;111,62;S
+103;VS00103;Achocolatado em Pó 400g Vale Bom;Mercearia;Vale Bom;CX 12UN;64,29;86,12;S
+104;VS00104;Macarrão Espaguete 500g Sabor da Terra;Mercearia;Sabor da Terra;FD 20UN;59,62;74,81;S
+105;VS00105;Molho de Tomate 340g Sabor da Terra;Mercearia;Sabor da Terra;CX 24UN;44,76;55,77;S
+106;VS00106;Molho de Tomate 340g Celeiro;Mercearia;Celeiro;CX 24UN;43,29;54,1;S
+107;VS00107;Óleo de Soja 900ml Sabor da Terra;Mercearia;Sabor da Terra;CX 20UN;90,95;125,82;N
+108;VS00108;Óleo de Soja 900ml Celeiro;Mercearia;Celeiro;CX 20UN;102,82;137,13;S
+109;VS00109;Biscoito Recheado 130g Grão Fino;Mercearia;Grão Fino;CX 40UN;64,03;78,36;S
+110;VS00110;Sal Refinado 1kg Celeiro;Mercearia;Celeiro;FD 10UN;17,1;21,87;S
+111;VS00111;Macarrão Espaguete 500g Vale Bom;Mercearia;Vale Bom;FD 20UN;47,27;61,61;S
+112;VS00112;Açúcar Refinado 1kg Celeiro;Mercearia;Celeiro;FD 10UN;41,22;50,31;S
+113;VS00113;Achocolatado em Pó 400g Mesa Farta;Mercearia;Mesa Farta;CX 12UN;76,95;101,53;S
+114;VS00114;Biscoito Recheado 130g Sabor da Terra;Mercearia;Sabor da Terra;CX 40UN;75,87;105,27;S
+115;VS00115;Farinha de Trigo 1kg Mesa Farta;Mercearia;Mesa Farta;FD 10UN;40,77;56,47;S
+116;VS00116;Biscoito Recheado 130g Dona Benta Sul;Mercearia;Dona Benta Sul;CX 40UN;67,38;90,77;N
+117;VS00117;Arroz Branco Tipo 1 5kg Celeiro;Mercearia;Celeiro;FD 6UN;113,02;142,42;S
+118;VS00118;Leite em Pó 400g Dona Benta Sul;Mercearia;Dona Benta Sul;CX 12UN;156,59;213,78;S
+119;VS00119;Leite em Pó 400g Mesa Farta;Mercearia;Mesa Farta;CX 12UN;151,55;183,66;S
+120;VS00120;Macarrão Parafuso 500g Vale Bom;Mercearia;Vale Bom;FD 20UN;56,4;69,14;S
+121;VS00121;Macarrão Parafuso 500g Grão Fino;Mercearia;Grão Fino;FD 20UN;54,83;70,15;S
+122;VS00122;Óleo de Soja 900ml Mesa Farta;Mercearia;Mesa Farta;CX 20UN;110,41;141,73;S
+123;VS00123;Óleo de Soja 900ml Grão Fino;Mercearia;Grão Fino;CX 20UN;107,85;128,76;S
+124;VS00124;Macarrão Espaguete 500g Celeiro;Mercearia;Celeiro;FD 20UN;63,98;84,77;S
+125;VS00125;Macarrão Espaguete 500g Dona Benta Sul;Mercearia;Dona Benta Sul;FD 20UN;66,35;85,23;S
+126;VS00126;Leite em Pó 400g Vale Bom;Mercearia;Vale Bom;CX 12UN;178,26;218,81;S
+127;VS00127;Molho de Tomate 340g Vale Bom;Mercearia;Vale Bom;CX 24UN;53,54;68,44;S
+128;VS00128;Açúcar Refinado 1kg Dona Benta Sul;Mercearia;Dona Benta Sul;FD 10UN;39,78;48,23;S
+129;VS00129;Leite em Pó 400g Celeiro;Mercearia;Celeiro;CX 12UN;154,53;194,03;S
+130;VS00130;Farinha de Trigo 1kg Grão Fino;Mercearia;Grão Fino;FD 10UN;51,69;62,37;S
+131;VS00131;Achocolatado em Pó 400g Dona Benta Sul;Mercearia;Dona Benta Sul;CX 12UN;86,65;115,31;S
+132;VS00132;Arroz Branco Tipo 1 5kg Dona Benta Sul;Mercearia;Dona Benta Sul;FD 6UN;111,01;144,4;S
+133;VS00133;Macarrão Parafuso 500g Dona Benta Sul;Mercearia;Dona Benta Sul;FD 20UN;53,32;66,46;N
+134;VS00134;Feijão Preto 1kg Mesa Farta;Mercearia;Mesa Farta;FD 10UN;117,25;88,22;S
+135;VS00135;Arroz Branco Tipo 1 5kg Grão Fino;Mercearia;Grão Fino;FD 6UN;139,54;174,48;S
+136;VS00136;Óleo de Soja 900ml Dona Benta Sul;Mercearia;Dona Benta Sul;CX 20UN;135,73;171,49;S
+137;VS00137;Macarrão Parafuso 500g Celeiro;Mercearia;Celeiro;FD 20UN;68,85;82,01;S
+138;VS00138;Feijão Carioca 1kg Vale Bom;Mercearia;Vale Bom;FD 10UN;59,16;81,59;S
+139;VS00139;Açúcar Refinado 1kg Grão Fino;Mercearia;Grão Fino;FD 10UN;38,44;48,98;S
+140;VS00140;Leite em Pó 400g Sabor da Terra;Mercearia;Sabor da Terra;CX 12UN;148,37;196,16;S
+141;VS00141;Molho de Tomate 340g Grão Fino;;Grão Fino;CX 24UN;45,59;54,4;S
+142;VS00142;Molho de Tomate 340g Dona Benta Sul;Mercearia;Dona Benta Sul;CX 24UN;45,32;56,69;S
+143;VS00143;Feijão Preto 1kg Sabor da Terra;;Sabor da Terra;FD 10UN;72,37;90,14;S
+144;VS00144;Café Torrado e Moído 500g Mesa Farta;Mercearia;Mesa Farta;CX 10UN;136,47;162,57;S
+145;VS00145;Biscoito Recheado 130g Celeiro;Mercearia;Celeiro;CX 40UN;70,61;92,03;S
+146;VS00146;Arroz Branco Tipo 1 5kg Mesa Farta;Mercearia;Mesa Farta;FD 6UN;118,71;163,22;S
+147;VS00147;Café Torrado e Moído 500g Sabor da Terra;Mercearia;Sabor da Terra;CX 10UN;141,39;191,43;S
+148;VS00148;Sal Refinado 1kg Dona Benta Sul;Mercearia;Dona Benta Sul;FD 10UN;16,98;23,17;S
+149;VS00149;Açúcar Refinado 1kg Mesa Farta;Mercearia;Mesa Farta;FD 10UN;38,9;53,67;S
+150;VS00150;Feijão Preto 1kg Vale Bom;Mercearia;Vale Bom;FD 10UN;73,36;96,27;S
+151;VS00151;Feijão Preto 1kg Dona Benta Sul;Mercearia;Dona Benta Sul;FD 10UN;55,03;75,24;S
+152;VS00152;Macarrão Espaguete 500g Grão Fino;Mercearia;Grão Fino;FD 20UN;50,82;61,81;S
+153;VS00153;Feijão Carioca 1kg Dona Benta Sul;Mercearia;Dona Benta Sul;FD 10UN;54,69;70,96;S
+154;VS00154;Sal Refinado 1kg Mesa Farta;Mercearia;Mesa Farta;FD 10UN;18,47;23,8;S
+155;VS00155;Óleo de Soja 900ml Vale Bom;Mercearia;Vale Bom;CX 20UN;107,64;145,41;S
+156;VS00156;Salsicha kg Friolar;Frios e Laticínios;Friolar;KG;12,11;16,42;S
+157;VS00157;Margarina 500g Fazenda Alegre;Frios e Laticínios;Fazenda Alegre;CX 12UN;68,78;96,44;S
+158;VS00158;Queijo Prato Fatiado 150g Fazenda Alegre;Frios e Laticínios;Fazenda Alegre;CX 20UN;136,2;171,02;S
+159;VS00159;Manteiga 200g Laticínios Serra;Frios e Laticínios;Laticínios Serra;CX 20UN;166,39;214,99;S
+160;VS00160;Queijo Prato Fatiado 150g Laticínios Serra;;Laticínios Serra;CX 20UN;117,35;150,32;S
+161;VS00161;Iogurte Natural 170g Fazenda Alegre;Frios e Laticínios;Fazenda Alegre;CX 24UN;50,65;67,25;S
+162;VS00162;Manteiga 200g Fazenda Alegre;Frios e Laticínios;Fazenda Alegre;CX 20UN;138,9;183,71;S
+163;VS00163;Queijo Prato Fatiado 150g Leite Bom;Frios e Laticínios;Leite Bom;CX 20UN;102,84;144,19;S
+164;VS00164;Requeijão Cremoso 200g Leite Bom;Frios e Laticínios;Leite Bom;CX 24UN;87,43;118,18;S
+165;VS00165;Queijo Prato Fatiado 150g Friolar;Frios e Laticínios;Friolar;CX 20UN;107,81;149,23;S
+166;VS00166;Margarina 500g Leite Bom;Frios e Laticínios;Leite Bom;CX 12UN;67,23;86,63;S
+167;VS00167;Manteiga 200g Bom Pasto;Frios e Laticínios;Bom Pasto;CX 20UN;164,85;225,53;S
+168;VS00168;Iogurte Natural 170g Laticínios Serra;Frios e Laticínios;Laticínios Serra;CX 24UN;53,38;73,97;S
+169;VS00169;Queijo Mussarela Peça kg Leite Bom;Frios e Laticínios;Leite Bom;KG;31,04;40,31;S
+170;VS00170;Queijo Mussarela Peça kg Laticínios Serra;Frios e Laticínios;Laticínios Serra;KG;30,88;39,87;S
+171;VS00171;Margarina 500g Friolar;Frios e Laticínios;Friolar;CX 12UN;77,22;104,13;S
+172;VS00172;Iogurte Natural 170g Leite Bom;Frios e Laticínios;Leite Bom;CX 24UN;52,94;74,45;S
+173;VS00173;Salsicha kg Fazenda Alegre;Frios e Laticínios;Fazenda Alegre;KG;10,06;13,87;S
+174;VS00174;Presunto Cozido Peça kg Fazenda Alegre;Frios e Laticínios;Fazenda Alegre;KG;23,26;28,82;S
+175;VS00175;Salsicha kg Bom Pasto;Frios e Laticínios;Bom Pasto;KG;12,45;18,16;S
+176;VS00176;Manteiga 200g Leite Bom;Frios e Laticínios;Leite Bom;CX 20UN;146,95;196,07;S
+177;VS00177;Queijo Mussarela Peça kg Bom Pasto;Frios e Laticínios;Bom Pasto;KG;32,08;42,65;S
+178;VS00178;Presunto Cozido Peça kg Laticínios Serra;Frios e Laticínios;Laticínios Serra;KG;23,12;32,4;S
+179;VS00179;Manteiga 200g Friolar;Frios e Laticínios;Friolar;CX 20UN;149,77;199,03;S
+180;VS00180;Mortadela Peça kg Leite Bom;Frios e Laticínios;Leite Bom;KG;14,9;21,7;S
+181;VS00181;Iogurte Natural 170g Friolar;Frios e Laticínios;Friolar;CX 24UN;50,28;65,87;S
+182;VS00182;Leite Integral UHT 1L Leite Bom;Frios e Laticínios;Leite Bom;CX 12UN;42,95;55,34;S
+183;VS00183;Leite Integral UHT 1L Bom Pasto;Frios e Laticínios;Bom Pasto;CX 12UN;47,03;67,68;S
+184;VS00184;Requeijão Cremoso 200g Laticínios Serra;Frios e Laticínios;Laticínios Serra;CX 24UN;97,09;119,32;S
+185;VS00185;Requeijão Cremoso 200g Fazenda Alegre;Frios e Laticínios;Fazenda Alegre;CX 24UN;103,37;135,23;S
+186;VS00186;Leite Integral UHT 1L Friolar;Frios e Laticínios;Friolar;CX 12UN;39,04;55,3;S
+187;VS00187;Requeijão Cremoso 200g Bom Pasto;Frios e Laticínios;Bom Pasto;CX 24UN;82,44;119,79;S
+188;VS00188;Salsicha kg Leite Bom;Frios e Laticínios;Leite Bom;KG;14,18;17,89;S
+189;VS00189;Margarina 500g Bom Pasto;Frios e Laticínios;Bom Pasto;CX 12UN;83,58;107,3;S
+190;VS00190;Presunto Cozido Peça kg Friolar;Frios e Laticínios;Friolar;KG;22,28;30,07;S
+191;VS00191;Leite Integral UHT 1L Fazenda Alegre;Frios e Laticínios;Fazenda Alegre;CX 12UN;57,4;73,04;S
+192;VS00192;Margarina 500g Laticínios Serra;Frios e Laticínios;Laticínios Serra;CX 12UN;66,85;87,31;S
+193;VS00193;Queijo Mussarela Peça kg Friolar;Frios e Laticínios;Friolar;KG;32,14;39,88;N
+194;VS00194;Requeijão Cremoso 200g Friolar;Frios e Laticínios;Friolar;CX 24UN;123,12;156,27;S
+195;VS00195;Mortadela Peça kg Fazenda Alegre;Frios e Laticínios;Fazenda Alegre;KG;13,84;17,29;S
+196;VS00196;Iogurte Natural 170g Bom Pasto;Frios e Laticínios;Bom Pasto;CX 24UN;52,43;74,56;S
+197;VS00197;Leite Integral UHT 1L Laticínios Serra;Frios e Laticínios;Laticínios Serra;CX 12UN;49,4;72,25;S
+198;VS00198;Presunto Cozido Peça kg Leite Bom;Frios e Laticínios;Leite Bom;KG;18,76;26,93;S
+199;VS00199;Mortadela Peça kg Laticínios Serra;Frios e Laticínios;Laticínios Serra;KG;16,25;20,3;S
+200;VS00200;Salsicha kg Laticínios Serra;Frios e Laticínios;Laticínios Serra;KG;11,55;14,19;S
+201;VS00201;Mortadela Peça kg Friolar;Frios e Laticínios;Friolar;KG;13,96;19,97;S
+202;VS00202;Presunto Cozido Peça kg Bom Pasto;Frios e Laticínios;Bom Pasto;KG;25,78;33,17;S
+203;VS00203;Queijo Prato Fatiado 150g Bom Pasto;Frios e Laticínios;Bom Pasto;CX 20UN;106,6;140,69;S
+204;VS00204;Queijo Mussarela Peça kg Fazenda Alegre;Frios e Laticínios;Fazenda Alegre;KG;30,6;41,13;S
+205;VS00205;Mortadela Peça kg Bom Pasto;Frios e Laticínios;Bom Pasto;KG;16,47;22,2;S
+206;VS00206;Guardanapo de Papel c/50 Prática;Limpeza e Descartáveis;Prática;FD 24PC;39,59;52,08;S
+207;VS00207;Água Sanitária 2L Higiclean;Limpeza e Descartáveis;Higiclean;CX 6UN;18,8;27,26;S
+208;VS00208;Guardanapo de Papel c/50 Limpa Mais;Limpeza e Descartáveis;Limpa Mais;FD 24PC;36,34;46,64;S
+209;VS00209;Papel Higiênico 12 rolos Brilho;Limpeza e Descartáveis;Brilho;FD 4PC;70,29;91,31;S
+210;VS00210;Copo Descartável 200ml c/100 Brilho;Limpeza e Descartáveis;Brilho;CX 25PC;65,9;97,51;S
+211;VS00211;Desinfetante 2L Higiclean;Limpeza e Descartáveis;Higiclean;CX 6UN;37,26;51,91;S
+212;VS00212;Desinfetante 2L Prática;Limpeza e Descartáveis;Prática;CX 6UN;31,81;44,83;S
+213;VS00213;Guardanapo de Papel c/50 Brilho;Limpeza e Descartáveis;Brilho;FD 24PC;38,66;61,67;S
+214;VS00214;Água Sanitária 2L Brilho;Limpeza e Descartáveis;Brilho;CX 6UN;23,1;34,26;S
+215;VS00215;Esponja Dupla Face Casa Boa;Limpeza e Descartáveis;Casa Boa;CX 60UN;44,62;69,14;N
+216;VS00216;Copo Descartável 200ml c/100 Limpa Mais;Limpeza e Descartáveis;Limpa Mais;CX 25PC;159,52;109,72;S
+217;VS00217;Copo Descartável 200ml c/100 Higiclean;Limpeza e Descartáveis;Higiclean;CX 25PC;62,22;94,49;S
+218;VS00218;Guardanapo de Papel c/50 Higiclean;Limpeza e Descartáveis;Higiclean;FD 24PC;35,2;56,69;S
+219;VS00219;Papel Higiênico 12 rolos Prática;Limpeza e Descartáveis;Prática;FD 4PC;57,97;76,32;N
+220;VS00220;Papel Higiênico 12 rolos Limpa Mais;Limpeza e Descartáveis;Limpa Mais;FD 4PC;59,77;88,96;S
+221;VS00221;Detergente Líquido 500ml Casa Boa;Limpeza e Descartáveis;Casa Boa;CX 24UN;35,35;50,29;S
+222;VS00222;Sabão em Pó 1kg Casa Boa;Limpeza e Descartáveis;Casa Boa;CX 20UN;123,84;199,24;S
+223;VS00223;Desinfetante 2L Casa Boa;Limpeza e Descartáveis;Casa Boa;CX 6UN;29,56;46,39;S
+224;VS00224;Água Sanitária 2L Casa Boa;Limpeza e Descartáveis;Casa Boa;CX 6UN;24,49;32,43;S
+225;VS00225;Sabão em Pó 1kg Limpa Mais;Limpeza e Descartáveis;Limpa Mais;CX 20UN;150,28;225,34;S
+226;VS00226;Detergente Líquido 500ml Brilho;Limpeza e Descartáveis;Brilho;CX 24UN;35,02;49,79;S
+227;VS00227;Saco de Lixo 100L c/10 Prática;Limpeza e Descartáveis;Prática;FD 20PC;70,29;97,82;S
+228;VS00228;Esponja Dupla Face Limpa Mais;Limpeza e Descartáveis;Limpa Mais;CX 60UN;50,97;79,98;S
+229;VS00229;Saco de Lixo 100L c/10 Higiclean;Limpeza e Descartáveis;Higiclean;FD 20PC;49,85;76,5;S
+230;VS00230;Papel Higiênico 12 rolos Higiclean;Limpeza e Descartáveis;Higiclean;FD 4PC;55,08;78,11;N
+231;VS00231;Saco de Lixo 100L c/10 Brilho;Limpeza e Descartáveis;Brilho;FD 20PC;63,46;83,84;N
+232;VS00232;Saco de Lixo 100L c/10 Limpa Mais;Limpeza e Descartáveis;Limpa Mais;FD 20PC;59,59;90,8;S
+233;VS00233;Água Sanitária 2L Limpa Mais;Limpeza e Descartáveis;Limpa Mais;CX 6UN;22,42;32,38;S
+234;VS00234;Sabão em Pó 1kg Prática;Limpeza e Descartáveis;Prática;CX 20UN;133,17;196,07;S
+235;VS00235;Desinfetante 2L Brilho;Limpeza e Descartáveis;Brilho;CX 6UN;31,19;40,5;S
+236;VS00236;Detergente Líquido 500ml Prática;Limpeza e Descartáveis;Prática;CX 24UN;33,84;52,25;S
+237;VS00237;Esponja Dupla Face Brilho;Limpeza e Descartáveis;Brilho;CX 60UN;40,23;63,88;S
+238;VS00238;Saco de Lixo 100L c/10 Casa Boa;Limpeza e Descartáveis;Casa Boa;FD 20PC;68,46;93,2;S
+239;VS00239;Detergente Líquido 500ml Higiclean;Limpeza e Descartáveis;Higiclean;CX 24UN;35,87;50,55;S
+240;VS00240;Água Sanitária 2L Prática;Limpeza e Descartáveis;Prática;CX 6UN;20,88;30,1;S
+241;VS00241;Detergente Líquido 500ml Limpa Mais;Limpeza e Descartáveis;Limpa Mais;CX 24UN;41,59;56,63;S
+242;VS00242;Guardanapo de Papel c/50 Casa Boa;Limpeza e Descartáveis;Casa Boa;FD 24PC;40,13;62,7;S
+243;VS00243;Esponja Dupla Face Prática;Limpeza e Descartáveis;Prática;CX 60UN;47,03;75,21;S
+244;VS00244;Esponja Dupla Face Higiclean;Limpeza e Descartáveis;Higiclean;CX 60UN;47,07;67,62;S
+245;VS00245;Copo Descartável 200ml c/100 Prática;Limpeza e Descartáveis;Prática;CX 25PC;69,9;106,62;S
+246;VS00246;Papel Higiênico 12 rolos Casa Boa;Limpeza e Descartáveis;Casa Boa;FD 4PC;50,76;76,08;S
+247;VS00247;Sabão em Pó 1kg Higiclean;Limpeza e Descartáveis;Higiclean;CX 20UN;158,21;203,42;S
+248;VS00248;Copo Descartável 200ml c/100 Casa Boa;Limpeza e Descartáveis;Casa Boa;CX 25PC;67,92;93,72;S
+249;VS00249;Sabão em Pó 1kg Brilho;Limpeza e Descartáveis;Brilho;CX 20UN;147,5;220,03;S
+250;VS00250;Desinfetante 2L Limpa Mais;Limpeza e Descartáveis;Limpa Mais;CX 6UN;31,32;42,13;S
