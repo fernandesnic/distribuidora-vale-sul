@@ -1,0 +1,119 @@
+// Modelo de Dados - Distribuidora Vale Sul (banco limpo)
+
+Enum canal_venda {
+  EXTERNO
+  TELEVENDAS
+}
+
+Enum categoria_produto {
+  Bebidas
+  Mercearia
+  "Frios e Laticínios"
+  "Limpeza e Descartáveis"
+  Desconhecido
+}
+
+Enum status_pedido {
+  FATURADO
+  CANCELADO
+}
+
+Enum tipo_condicao {
+  "PIX A VISTA"
+  "BOLETO 35 DIAS"
+  "BOLETO 28 DIAS"
+  "BOLETO 14 DIAS"
+  "BOLETO 7 DIAS"
+}
+
+Enum status_titulo {
+  PAGO
+  ABERTO
+  PARCIAL
+  CANCELADO
+}
+
+Enum tipo_pagamento {
+  PIX
+  BOLETO
+  "ABATIMENTO DEVOLUCAO"
+}
+
+Table clientes {
+  cliente_id int [primary key, not null]
+  razao_social varchar(100) [not null]
+  nome_fantasia varchar(100)
+  cnpj varchar(14) [unique, not null]
+  segmento varchar(40)
+  cidade varchar(40) [not null]
+  uf varchar(2) [not null]
+  vendedor_id int [ref: > vendedores.vendedor_id]
+  data_cadastro date [not null]
+  limite_credito decimal(12,2) [not null]
+}
+
+Table vendedores {
+  vendedor_id int [primary key, not null]
+  nome varchar(100) [not null]
+  canal canal_venda [not null]
+  data_admissao date [not null]
+  data_desligamento date
+  regiao varchar(100) [not null]
+}
+
+Table produtos {
+  produto_id int [primary key, not null]
+  sku varchar(7) [not null, unique]
+  descricao varchar(100) [not null]
+  categoria categoria_produto [not null]
+  marca varchar(40) [not null]
+  unidade varchar(10) [not null]
+  custo_unitario decimal(12,2) [not null]
+  preco_venda decimal(12,2) [not null]
+  ativo boolean [not null]
+}
+
+Table pedidos {
+  pedido_id int [primary key, not null]
+  cliente_id int [ref: > clientes.cliente_id, not null]
+  vendedor_id int [ref: > vendedores.vendedor_id, not null]
+  canal canal_venda [not null]
+  data_pedido date [not null]
+  data_faturamento date
+  status status_pedido [not null]
+  condicao_pagamento tipo_condicao [not null]
+  valor_produtos decimal(12,2) [not null]
+  valor_desconto decimal(12,2) [not null]
+  valor_total decimal(12,2) [not null]
+}
+
+Table itens_pedido {
+  item_id int [primary key]
+  pedido_id int [ref: > pedidos.pedido_id, not null]
+  produto_id int [ref: > produtos.produto_id, not null]
+  quantidade int [not null]
+  preco_unitario decimal(12,2) [not null]
+  custo_unitario decimal(12,2) [not null]
+  valor_total_item decimal(12,2) [not null]
+  qtd_devolvida int [not null]
+  data_devolucao date
+}
+
+Table titulos_receber {
+  titulo_id int [primary key]
+  pedido_id int [ref: > pedidos.pedido_id, not null]
+  cliente_id int [ref: > clientes.cliente_id, not null]
+  data_emissao date [not null]
+  data_vencimento date [not null]
+  valor decimal(12,2) [not null]
+  status status_titulo [not null]
+}
+
+Table pagamentos {
+  pagamento_id int [primary key]
+  titulo_id int [ref: > titulos_receber.titulo_id, not null]
+  data_pagamento date [not null]
+  valor_pago decimal(12,2) [not null]
+  valor_juros decimal(12,2) [not null]
+  forma_pagamento tipo_pagamento [not null]
+}
