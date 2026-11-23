@@ -9,3 +9,5 @@ __pycache__/
 
 # Checkpoints do Jupyter
 .ipynb_checkpoints/
+
+data/processed/*.db
