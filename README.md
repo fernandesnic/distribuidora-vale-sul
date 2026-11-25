@@ -25,6 +25,7 @@ Praticar o caminho completo de um analista de dados em um cenário parecido com 
 ## ❓ Perguntas de negócio
 
 **Vendas**
+
 1. Quanto vendemos por mês e estamos crescendo?
 2. Em que época do ano vendemos mais, e de quê?
 3. Quais vendedores e qual canal (externo ou televendas) vendem mais?
@@ -56,28 +57,43 @@ Praticar o caminho completo de um analista de dados em um cenário parecido com 
 
 | Etapa | Descrição | Status |
 |---|---|---|
-| 1 - Banco de dados | Modelagem, carga e limpeza dos dados em SQL | ⏳ A fazer |
-| 2 - Excel | Análises de Cohort e RFM | ⏳ A fazer |
+| 1 - Banco de dados | Modelagem das tabelas, limpeza dos dados com Python, carga automática no banco e validação com SQL | ✅ Concluída |
+| 2 - Excel | Importação com Power Query, painel de vendas mensal e análises de Cohort e RFM | ⏳ A fazer |
 | 3 - Power BI | Painéis Comercial, Produtos e Financeiro | ⏳ A fazer |
 | 4 - Análise completa | Análises descritiva, diagnóstica, preditiva e prescritiva | ⏳ A fazer |
 | 5 - Dashboard web | Dashboard em Python (Streamlit) publicado na internet | ⏳ A fazer |
-| 6 - Divulgação | README final com conclusões e post no LinkedIn | ⏳ A fazer |
+| 6 - Apresentação web | Página de apresentação do projeto com gráficos interativos, publicada no GitHub Pages | ⏳ A fazer |
+| 7 - Divulgação | README final com conclusões e post no LinkedIn | ⏳ A fazer |
 
 ---
 
 ## 🛠️ Ferramentas
 
-- **SQL** — banco de dados, limpeza e consultas
-- **Python (pandas)** — tratamento dos dados e análises
-- **Excel** — Cohort e RFM
+- **SQL** — criação das tabelas, validação e consultas
+- **Python (pandas)** — limpeza, carga automática e análises
+- **Excel (Power Query)** — painel de vendas, Cohort e RFM
 - **Power BI** — painéis
 - **Streamlit** — dashboard web
+- **HTML, CSS e JavaScript** — página de apresentação (GitHub Pages)
 
 ---
 
 ## 📁 Estrutura do repositório
 
-*(a definir)*
+```
+distribuidora-vale-sul/
+├── README.md
+├── data/
+│   ├── raw/          (dados brutos gerados)
+│   └── processed/    (dados tratados)
+├── sql/              (criação das tabelas e consultas)
+├── src/              (scripts Python de limpeza e carga)
+├── notebooks/        (análises em Jupyter)
+├── excel/            (painel em Excel)
+├── powerbi/          (arquivo .pbix)
+├── app/              (dashboard Streamlit)
+└── docs/             (imagens e relatório final)
+```
 
 ---
 
